@@ -22,7 +22,7 @@ vector<string> solution(int n, vector<int> a, vector<int> b)
 		res.push_back(st);
 	}
 	return res;
-}
+} 
 
 int main()
 {
