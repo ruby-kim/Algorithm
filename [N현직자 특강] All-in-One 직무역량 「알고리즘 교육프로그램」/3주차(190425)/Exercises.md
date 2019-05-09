@@ -32,7 +32,7 @@
 ![hint](https://user-images.githubusercontent.com/38516906/57449836-e2127780-7297-11e9-91ee-47ec6631f44d.PNG)
 
 ---
-### 2. 수강신청
+### 2. 수강신청     [[code link]](https://github.com/kimkyeongnam/STUDY_Algorithm/blob/master/%5BN%ED%98%84%EC%A7%81%EC%9E%90%20%ED%8A%B9%EA%B0%95%5D%20All-in-One%20%EC%A7%81%EB%AC%B4%EC%97%AD%EB%9F%89%20%E3%80%8C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B5%90%EC%9C%A1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%E3%80%8D/3%EC%A3%BC%EC%B0%A8(190425)/ex_Enrolment.cpp)
 국민대학교에서는 매 학기 시작 전 종합정보시스템에서 수강신청을 한다. 매 수강신청마다 아주 많은 학생들이 몰려 서버에 많은 부하가 가기 때문에, 국민대학교에서는 수강신청 부하 관리 시스템을 도입하기로 결정하였다. 새로운 관리 시스템은 다음과 같은 방식으로 동작한다.
 
 1. 수강신청 버튼이 활성화 된 후, 수강신청 버튼을 조금이라도 빨리 누른 학생이 대기목록에 먼저 들어간다.
