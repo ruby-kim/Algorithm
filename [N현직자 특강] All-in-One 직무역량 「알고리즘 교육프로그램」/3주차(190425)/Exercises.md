@@ -1,5 +1,5 @@
 # 실전 문제 및 풀이
-### 1. 카카오 신입 공채 1차 코딩 테스트: 비밀 지도(난이도: 하)     [[code link]](https://github.com/kimkyeongnam/STUDY_Algorithm/blob/master/%5BN%ED%98%84%EC%A7%81%EC%9E%90%20%ED%8A%B9%EA%B0%95%5D%20All-in-One%20%EC%A7%81%EB%AC%B4%EC%97%AD%EB%9F%89%20%E3%80%8C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B5%90%EC%9C%A1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%E3%80%8D/3%EC%A3%BC%EC%B0%A8(190425)/kakao_Maze.cpp)
+### 1. 카카오 신입 공채 1차 코딩 테스트: 비밀 지도(난이도: 하)     [[code link]](https://github.com/kimkyeongnam/STUDY_Algorithm/blob/master/%5BN%ED%98%84%EC%A7%81%EC%9E%90%20%ED%8A%B9%EA%B0%95%5D%20All-in-One%20%EC%A7%81%EB%AC%B4%EC%97%AD%EB%9F%89%20%E3%80%8C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B5%90%EC%9C%A1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%E3%80%8D/3%EC%A3%BC%EC%B0%A8(190425)/ex_kakao_Maze.cpp)
 네오는 평소 프로도가 비상금을 숨겨놓는 장소를 알려줄 비밀지도를 손에 넣었다. 그런데 이 비밀지도는 숫자로 암호화되어 있어 위치를 확인하기 위해서는 암호를 해독해야 한다. 다행히 지도 암호를 해독할 방법을 적어놓은 메모도 함께 발견했다.
 네오가 프로도의 비상금을 손에 넣을 수 있도록, 비밀지도의 암호를 해독하는 작업을 도와줄 프로그램을 작성하라.  
 
