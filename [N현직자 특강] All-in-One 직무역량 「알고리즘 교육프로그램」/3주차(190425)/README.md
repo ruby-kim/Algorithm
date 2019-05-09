@@ -64,3 +64,6 @@
 **입출력 예제**  
 
 ![q1_ex](https://user-images.githubusercontent.com/38516906/57449427-d1153680-7296-11e9-9ccc-53d70c778008.PNG)
+
+**참고**
+![](https://user-images.githubusercontent.com/38516906/57449836-e2127780-7297-11e9-91ee-47ec6631f44d.PNG)
