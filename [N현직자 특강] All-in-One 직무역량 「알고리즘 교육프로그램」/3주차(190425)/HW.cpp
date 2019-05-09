@@ -50,20 +50,18 @@ Job#5: Si=4 / Ei=6 / Wi=4
 1 3 8
 2 2 8
 3 3 8
-
 4
 1 2 10
 2 4 20
 1 3 5
 3 4 5
-
 5
 1 5 16
 2 4 4
 3 4 16
 1 2 4
 4 6 4
----------
+--------
 Yes
 No
 Yes
@@ -73,8 +71,6 @@ Yes
 #include<vector>
 #include<algorithm>
 #include<queue>
-
-// 3,4를 입력하면 괜찮은데 5를 입력하면 오류가 나서.. 최대한 빨리 고쳐보도록 하겠습니다!ㅠㅠ
 
 using namespace std;
 
