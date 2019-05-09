@@ -4,7 +4,7 @@
 ### 1. [N현직자 특강] All-in-One 직무역량 「알고리즘 교육프로그램」
 * 개발환경: GDG online Debugger [[link]](http://www.onlinegdb.com/)
 * 참고사이트: 개발자 지망생  [[link]](https://blockdmask.tistory.com/category/%3C%EA%B0%9C%EC%9D%B8%EA%B3%B5%EB%B6%80%3E)
-* Concept: 개념 / Exercises: 실습 / HW: 
+* Concept: 개념 / Exercises: 실습 / HW: 과제 
 
 |단계|주차|내용|
 |:--:|:--:|:--:|
