@@ -85,6 +85,6 @@
 
 **참고**
 ```
-- map, pair, vector, sort를 활용
-- map의 특성상 이미 존재하는 key값을 갖는 pair를 map에 추가하는 경우, 해당 key값을 갖는 기존 pair의 value를 덮어 씀
+* map, pair, vector, sort를 활용
+* map의 특성상 이미 존재하는 key값을 갖는 pair를 map에 추가하는 경우, 해당 key값을 갖는 기존 pair의 value를 덮어 씀
 ```
