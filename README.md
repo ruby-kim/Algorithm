@@ -8,7 +8,7 @@
 |:--:|:--:|:--:|
 |1단계|1주차(04/04)|SW역량테스트 개요|
 ||[2주차(04/11)](https://github.com/kimkyeongnam/Algorithm/tree/master/%5BN%ED%98%84%EC%A7%81%EC%9E%90%20%ED%8A%B9%EA%B0%95%5D%20All-in-One%20%EC%A7%81%EB%AC%B4%EC%97%AD%EB%9F%89%20%E3%80%8C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B5%90%EC%9C%A1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%E3%80%8D/2%EC%A3%BC%EC%B0%A8(190411))|C++ 기초문법|
-||[3주차]()|기초수학<br>(정리중)|
+||[3주차](https://github.com/kimkyeongnam/STUDY_Algorithm/tree/master/%5BN%ED%98%84%EC%A7%81%EC%9E%90%20%ED%8A%B9%EA%B0%95%5D%20All-in-One%20%EC%A7%81%EB%AC%B4%EC%97%AD%EB%9F%89%20%E3%80%8C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B5%90%EC%9C%A1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%E3%80%8D/3%EC%A3%BC%EC%B0%A8(190425))|기초수학<br>(정리중)|
 ||4주차|기초자료구조|
 ||5주차|정렬|
 ||6주차|기초탐색기법|
