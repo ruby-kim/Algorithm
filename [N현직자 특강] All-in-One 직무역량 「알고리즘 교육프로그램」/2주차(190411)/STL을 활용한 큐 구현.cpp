@@ -10,16 +10,17 @@ int main()
 	q.push(1);
 	q.push(2);
 	q.push(3);
-	cout << "size: " << q.size() << endl; //Å¥ÀÇ »çÀÌÁî ¹ÝÈ¯
+	cout << "size: " << q.size() << endl; //íì˜ ì‚¬ì´ì¦ˆ ë°˜í™˜
 
-	cout << q.front() << endl; //Å¥ÀÇ ¸Ç ¾Õ ¹ÝÈ¯
-	q.pop(); //Å¥ÀÇ ¸Ç ¾Õ »èÁ¦
+	cout << q.front() << endl; //íì˜ ë§¨ ì•ž ë°˜í™˜
+	q.pop(); //íì˜ ë§¨ ì•ž ì‚­ì œ
 
-	cout << q.front() << endl; //Å¥ÀÇ ¸Ç ¾Õ ¹ÝÈ¯
-	q.pop(); //Å¥ÀÇ ¸Ç ¾Õ »èÁ¦
+	cout << q.front() << endl; //íì˜ ë§¨ ì•ž ë°˜í™˜
+	q.pop(); //íì˜ ë§¨ ì•ž ì‚­ì œ
 
-	cout << q.front() << endl; //Å¥ÀÇ ¸Ç ¾Õ ¹ÝÈ¯
-	q.pop(); //Å¥ÀÇ ¸Ç ¾Õ »èÁ¦
+	cout << q.front() << endl; //íì˜ ë§¨ ì•ž ë°˜í™˜
+	q.pop(); //íì˜ ë§¨ ì•ž ì‚­ì œ
 
+	cout << "empty?" << q.empty() << endl; //íê°€ ë¹„ì–´ìžˆëŠ”ì§€ bool ê°’ ë°˜í™˜
 	return 0;
 }
