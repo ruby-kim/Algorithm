@@ -19,6 +19,6 @@
 
 
 ---
-### 4. 압축     [[code link]](https://github.com/kimkyeongnam/STUDY_Algorithm/blob/master/%5BN%ED%98%84%EC%A7%81%EC%9E%90%20%ED%8A%B9%EA%B0%95%5D%20All-in-One%20%EC%A7%81%EB%AC%B4%EC%97%AD%EB%9F%89%20%E3%80%8C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B5%90%EC%9C%A1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%E3%80%8D/4%EC%A3%BC%EC%B0%A8(190509)/ex_%EC%95%95%EC%B6%95.cpp)
+### 4. 카카오 신입 공채 3차 코딩 테스트: 압축     [[code link]](https://github.com/kimkyeongnam/STUDY_Algorithm/blob/master/%5BN%ED%98%84%EC%A7%81%EC%9E%90%20%ED%8A%B9%EA%B0%95%5D%20All-in-One%20%EC%A7%81%EB%AC%B4%EC%97%AD%EB%9F%89%20%E3%80%8C%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B5%90%EC%9C%A1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%E3%80%8D/4%EC%A3%BC%EC%B0%A8(190509)/ex_%EC%95%95%EC%B6%95.cpp)
 
-![](https://user-images.githubusercontent.com/38516906/59427922-cc541d00-8e16-11e9-8bd8-3031d6dd0c2f.png)
+![압축](https://user-images.githubusercontent.com/38516906/59427922-cc541d00-8e16-11e9-8bd8-3031d6dd0c2f.png)
