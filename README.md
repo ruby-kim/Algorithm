@@ -27,4 +27,4 @@
 
 <br><br>
 
-### 2. 
+### 2. 백준 알고리즘 [[link]](https://www.acmicpc.net/)
