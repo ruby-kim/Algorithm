@@ -5,7 +5,7 @@
 **(정리중)**
 * 개발환경: GDG online Debugger [[link]](http://www.onlinegdb.com/)
 * 참고사이트: 개발자 지망생  [[link]](https://blockdmask.tistory.com/category/%3C%EA%B0%9C%EC%9D%B8%EA%B3%B5%EB%B6%80%3E)
-* README.md: 개념 / Exercises.md: 실습, ex_?.cpp: 실습 답 / HW.cpp: 과제 / 이외의 모든 cpp파일: 개념 연습  
+* README.md: 개념 / Exercises.md: 실습, ex_?.cpp: 실습 답 / HW.cpp: 과제 / 이외의 모든 cpp파일: 개념 연습
 
 |단계|주차|내용|
 |:--:|:--:|:--:|
@@ -33,3 +33,8 @@
 
 ### 3. 매일프로그래밍  [[link]](https://mailprogramming.com/)
 <br><br>
+
+
+### 4. Kick Start  [[link]](https://codingcompetitions.withgoogle.com/kickstart)
+<br><br>
+
