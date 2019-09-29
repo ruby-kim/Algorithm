@@ -1,4 +1,10 @@
 # 알고리즘 분류
+### 구현
+- 2884번: 알람 시계 [[문제]](https://www.acmicpc.net/problem/2884) [[풀이]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2884.md)
+- 9498번: 시험 성적 [[문제]](https://www.acmicpc.net/problem/9498) [[풀이]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/9498.md)
+
+<br>
+
 ### 다이나믹 프로그래밍
 - 1309번: 동물원  
 - 2011번: 암호코드
@@ -12,9 +18,9 @@
 
 <br>
 
-### 구현
-- 2884번: 알람 시계 [[문제]](https://www.acmicpc.net/problem/2884) [[풀이]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2884.md)
-- 9498번: 시험 성적 [[문제]](https://www.acmicpc.net/problem/9498) [[풀이]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/9498.md)
+### 출력
+- 2739번: 구구단 [[문제]](https://www.acmicpc.net/problem/2739) [[풀이]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2739.md)
 
+<br>
 
 **Last Update: 09.28.2019**
