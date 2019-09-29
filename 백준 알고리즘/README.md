@@ -2,6 +2,7 @@
 ### 구현
 - 2884번: 알람 시계 [[문제]](https://www.acmicpc.net/problem/2884) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2884.md)
 - 9498번: 시험 성적 [[문제]](https://www.acmicpc.net/problem/9498) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/9498.md)
+- 10871번: X보다 작은 수 [[문제]](https://www.acmicpc.net/problem/10871) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/10871.md)
 
 <br>
 
