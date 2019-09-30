@@ -1,0 +1,48 @@
+# OX퀴즈 [[link]](https://www.acmicpc.net/problem/8958)
+**사용언어: C++14**
+
+![Capture](https://user-images.githubusercontent.com/38516906/65886948-3e6f5400-e36b-11e9-9137-5a6f0e41b265.PNG)
+
+```
+#include <iostream>
+#include <vector>
+#include <string>
+
+using namespace std;
+
+
+int main()
+{
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    
+    int N;
+    cin>>N;
+    
+    vector<char> v[100];
+    int tmp = 0;
+    int sum = 0;
+    string quiz;
+    for(int i=0; i<N; i++){
+        cin>>quiz;
+        for(int j=0; j<quiz.size(); j++)
+            v[i].push_back(quiz[j]);
+    }
+    
+    for(int i=0; i<N; i++){
+        for(int j=0; j<v[i].size(); j++){
+            if(v[i][j]=='O') tmp++;
+            else tmp=0;
+            sum += tmp;
+        }
+        cout<<sum<<endl;
+        sum = 0;
+        tmp = 0;
+    }
+
+    return 0;
+}
+
+```
+![Capture](https://user-images.githubusercontent.com/38516906/65886783-f2241400-e36a-11e9-82f3-fbb48d5561c8.PNG)
