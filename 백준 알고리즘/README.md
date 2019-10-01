@@ -16,6 +16,7 @@
 <br>
 
 ### 배열
+- 2920번: 음계 [[문제]](https://www.acmicpc.net/problem/2920) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2920.md)
 - 3052번: 나머지 [[문제]](https://www.acmicpc.net/problem/3052) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/3052.md)
 
 <br>
