@@ -15,6 +15,11 @@
 
 <br>
 
+### 배열
+- 3052번: 나머지 [[문제]](https://www.acmicpc.net/problem/3052) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/3052.md)
+
+<br>
+
 ### 사칙연산
 - 10950번: A+B - 3 [[문제]](https://www.acmicpc.net/problem/10950) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/10950.md)
 - 11021번: A+B - 7 [[문제]](https://www.acmicpc.net/problem/11021) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/11021.md)
