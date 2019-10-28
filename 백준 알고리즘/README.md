@@ -42,6 +42,11 @@
 
 <br>
 
+### 정렬
+- 1026번: 보물 [[문제]](https://www.acmicpc.net/problem/1026) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/1026.md)
+
+<br>
+
 ### 출력
 - 2438번: 별 찍기 - 1 [[문제]](https://www.acmicpc.net/problem/2438) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2438.md)
 - 2439번: 별 찍기 - 2 [[문제]](https://www.acmicpc.net/problem/2439) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2439.md)
@@ -55,8 +60,9 @@
 <br>
 
 ### 탐색
+- 1026번: 보물 [[문제]](https://www.acmicpc.net/problem/1026) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/1026.md)
 - 1316번: 그룹 단어 체커 [[문제]](https://www.acmicpc.net/problem/1316) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/%EB%B0%B1%EC%A4%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/1316.md)
 
 
 <br><br><br>
-**Last Update: 10.13.2019**
+**Last Update: 10.28.2019**
