@@ -1,7 +1,7 @@
 # Algorithm Study
 * 개발환경: GDG online Debugger [[link]](http://www.onlinegdb.com/)
 
-### 1. Baekjoon Online Judge(백준 알고리즘) [[link]](https://www.acmicpc.net/)
+### 1. Baekjoon Online Judge(백준 알고리즘/BOJ) [[link]](https://www.acmicpc.net/)
 <br><br>
 
 ### 2. Code Signal [[link]](https://codesignal.com/)
