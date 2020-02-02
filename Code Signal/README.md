@@ -1,6 +1,6 @@
 # Arcade
 ### Intro
-- The Journey Begins(1~3) [[python3 code]]()
+- The Journey Begins(1~3) [[python3 code]](https://github.com/kimkyeongnam/Algorithm/blob/master/Code%20Signal/Intro/%5BPython3%5D%201.%20The%20Journey%20Begins(1~3).ipynb)
 - Edge of the Ocean(4~8) [[python3 code]]()
 - Smooth Sailing(9~13) [[python3 code]]()
 - Exploring the Waters(14~18) [[python3 code]]()
