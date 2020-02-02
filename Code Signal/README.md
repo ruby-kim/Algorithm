@@ -27,4 +27,4 @@
 # Tournaments
 
 <br><br><br>
-**Last Update: 10.28.2019**
+**Last Update: 02.02.2020**
