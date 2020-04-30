@@ -18,3 +18,12 @@
 
 <br><br>
 ## 일반문제
+### Level 1
+* 완주하지 못한 선수 [[문제]](https://programmers.co.kr/learn/courses/30/lessons/42576) [[코드]]()
+* 같은 숫자는 싫어 [[문제]](https://programmers.co.kr/learn/courses/30/lessons/12906) [[코드]]()
+* 문자열 내 p와 y의 개수 [[문제]](https://programmers.co.kr/learn/courses/30/lessons/12916) [[코드]]()
+* 서울에서 김서방 찾기 [[문제]](https://programmers.co.kr/learn/courses/30/lessons/12919) [[코드]]()
+### Level 2
+### Level 3
+### Level 4
+### Level 5
