@@ -1,5 +1,5 @@
 # Challenge: July 2020
-* Language: Python3
+* Language: Python
 
 |Week|Date|Problem|Status|Code|
 |:--:|:--:|:--:|:--:|:--:|
