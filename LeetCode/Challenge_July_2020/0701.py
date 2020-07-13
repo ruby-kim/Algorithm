@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         sum = 0
-        i = 1
+        i = 1       # current line
         while True:
             if sum + i > n:
                 return i - 1
