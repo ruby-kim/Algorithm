@@ -1,4 +1,4 @@
-# Challenge list: July 2020
+# Challenge: July 2020
 * Language: Python3
 
 |Week|Date|Problem|Status|Code|
