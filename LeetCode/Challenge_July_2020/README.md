@@ -19,7 +19,7 @@
 ||07/13|[Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)|❌|[:octocat:](./0713.py)|
 ||07/14|[Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)|❌|[:octocat:](./0714.py)|
 |3|07/15|[Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)|❌|[:octocat:](./0715.py)|
-||07/16|[Pow(x, n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)|❌|[:octocat:](./0716.py)|
+||07/16|[Pow(x, n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)|✅|[:octocat:](./0716.py)|
 ||07/17|[Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)|❌|[:octocat:](./0717.py)|
 ||07/18|[Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)|❌|[:octocat:](./0718.py)|
 ||07/19|[Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)|❌|[:octocat:](./0719.py)|
