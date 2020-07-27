@@ -57,6 +57,7 @@
 ### 조건문(if문)
 - 1330번: 두 수 비교하기 [[문제]](https://www.acmicpc.net/problem/1330) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1330.cpp)
 - 2753번: 윤년 [[문제]](https://www.acmicpc.net/problem/2753) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2753.cpp)
+- 14681번: 사분면 고르기 [[문제]](https://www.acmicpc.net/problem/14681) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/14681.cpp)
 
 <br>
 
