@@ -6,6 +6,10 @@
 - 10951번: A+B - 4 [[문제]](https://www.acmicpc.net/problem/10951) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10951.cpp)
 - 10952번: A+B - 5 [[문제]](https://www.acmicpc.net/problem/10952) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10952.cpp)
 
+<br>
+
+### 나머지 연산
+- 10430번: 나머지 [[문제]](https://www.acmicpc.net/problem/10430) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10430.cpp)
 
 <br>
 
@@ -28,6 +32,8 @@
 <br>
 
 ### 사칙연산
+- 10430번: 나머지 [[문제]](https://www.acmicpc.net/problem/10430) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10430.cpp)
+- 10869번: 사칙연산 [[문제]](https://www.acmicpc.net/problem/10869) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10869.cpp)
 - 10950번: A+B - 3 [[문제]](https://www.acmicpc.net/problem/10950) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10950.cpp)
 - 10998번: AxB [[문제]](https://www.acmicpc.net/problem/10998) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10998.cpp)
 - 11021번: A+B - 7 [[문제]](https://www.acmicpc.net/problem/11021) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11021.cpp)
@@ -51,6 +57,7 @@
 ### 출력
 - 2438번: 별 찍기 - 1 [[문제]](https://www.acmicpc.net/problem/2438) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2438.cpp)
 - 2439번: 별 찍기 - 2 [[문제]](https://www.acmicpc.net/problem/2439) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2439.cpp)
+- 2588번: 곱셈 [[문제]](https://www.acmicpc.net/problem/2588) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2588.cpp)
 - 2739번: 구구단 [[문제]](https://www.acmicpc.net/problem/2739) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2739.cpp)
 - 2741번: N 찍기 [[문제]](https://www.acmicpc.net/problem/2741) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2741.cpp)
 - 2742번: 기찍 N [[문제]](https://www.acmicpc.net/problem/2742) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2742.cpp)
