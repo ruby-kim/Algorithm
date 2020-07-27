@@ -53,6 +53,8 @@
 - 2739번: 구구단 [[문제]](https://www.acmicpc.net/problem/2739) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2739.cpp)
 - 2741번: N 찍기 [[문제]](https://www.acmicpc.net/problem/2741) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2741.cpp)
 - 2742번: 기찍 N [[문제]](https://www.acmicpc.net/problem/2742) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2742.cpp)
+- 10171번: 고양이 [[문제]](https://www.acmicpc.net/problem/10171) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10171.cpp)
+- 10172번: 개 [[문제]](https://www.acmicpc.net/problem/10172) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10172.cpp)
 - 10718번: We love kriii [[문제]](https://www.acmicpc.net/problem/10718) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10718.cpp)
 - 11718번: 그대로 출력하기 [[문제]](https://www.acmicpc.net/problem/11718) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11718.cpp)
 - 11720번: 숫자의 합 [[문제]](https://www.acmicpc.net/problem/11718) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11720.cpp)
