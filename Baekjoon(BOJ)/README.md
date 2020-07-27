@@ -29,6 +29,7 @@
 
 ### 사칙연산
 - 10950번: A+B - 3 [[문제]](https://www.acmicpc.net/problem/10950) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10950.cpp)
+- 10998번: AxB [[문제]](https://www.acmicpc.net/problem/10998) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10998.cpp)
 - 11021번: A+B - 7 [[문제]](https://www.acmicpc.net/problem/11021) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11021.cpp)
 - 11022번: A+B - 8 [[문제]](https://www.acmicpc.net/problem/11022) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11022.cpp)
 
@@ -57,8 +58,8 @@
 - 10172번: 개 [[문제]](https://www.acmicpc.net/problem/10172) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10172.cpp)
 - 10718번: We love kriii [[문제]](https://www.acmicpc.net/problem/10718) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10718.cpp)
 - 11718번: 그대로 출력하기 [[문제]](https://www.acmicpc.net/problem/11718) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11718.cpp)
-- 11720번: 숫자의 합 [[문제]](https://www.acmicpc.net/problem/11718) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11720.cpp)
 - 11719번: 그대로 출력하기 2 [[문제]](https://www.acmicpc.net/problem/11719) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11719.cpp)
+- 11720번: 숫자의 합 [[문제]](https://www.acmicpc.net/problem/11718) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11720.cpp)
 
 <br>
 
