@@ -54,6 +54,12 @@
 
 <br>
 
+### 조건문(if문)
+- 1330번: 두 수 비교하기 [[문제]](https://www.acmicpc.net/problem/1330) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1330.cpp)
+- 2753번: 윤년 [[문제]](https://www.acmicpc.net/problem/2753) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2753.cpp)
+
+<br>
+
 ### 출력
 - 2438번: 별 찍기 - 1 [[문제]](https://www.acmicpc.net/problem/2438) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2438.cpp)
 - 2439번: 별 찍기 - 2 [[문제]](https://www.acmicpc.net/problem/2439) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2439.cpp)
@@ -73,7 +79,3 @@
 ### 탐색
 - 1026번: 보물 [[문제]](https://www.acmicpc.net/problem/1026) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1026.cpp)
 - 1316번: 그룹 단어 체커 [[문제]](https://www.acmicpc.net/problem/1316) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1316.cpp)
-
-
-<br><br><br>
-**Last Update: 10.28.2019**
