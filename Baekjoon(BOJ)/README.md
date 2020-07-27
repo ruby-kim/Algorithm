@@ -46,6 +46,6 @@
 - 11654번: 아스키 코드 [[문제]](https://www.acmicpc.net/problem/11654) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11654.cpp)
 - 11718번: 그대로 출력하기 [[문제]](https://www.acmicpc.net/problem/11718) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11718.cpp)
 - 11719번: 그대로 출력하기 2 [[문제]](https://www.acmicpc.net/problem/11719) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11719.cpp)
-- 11720번: 숫자의 합 [[문제]](https://www.acmicpc.net/problem/11718) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11720.cpp)
+- 11720번: 숫자의 합 [[문제]](https://www.acmicpc.net/problem/11720) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/11720.cpp)
 - 14681번: 사분면 고르기 [[문제]](https://www.acmicpc.net/problem/14681) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/14681.cpp)
 - 15552번: 빠른 A+B [[문제]](https://www.acmicpc.net/problem/15552) [[코드]](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/15552.cpp)
