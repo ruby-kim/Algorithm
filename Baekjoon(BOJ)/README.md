@@ -12,6 +12,7 @@
 * A - B [[문제](https://www.acmicpc.net/problem/1001)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1000~1999/1001.cpp)]
 * A x B [[문제](https://www.acmicpc.net/problem/10998)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10998.cpp)]
 * A / B [[문제](https://www.acmicpc.net/problem/1008)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1000~1999/1008.cpp)]
+* 분산처리 [[문제](https://www.acmicpc.net/problem/1009)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1000~1999/1009.cpp)]
 * 두 수 비교하기 [[문제](https://www.acmicpc.net/problem/1330)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1000~1999/1330.cpp)]
 * 구구단 [[문제](https://www.acmicpc.net/problem/2739)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2000~2999/2739.cpp)]
 * N 찍기 [[문제](https://www.acmicpc.net/problem/2741)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2000~2999/2741.cpp)]
