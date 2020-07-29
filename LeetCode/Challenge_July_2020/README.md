@@ -23,3 +23,12 @@
 ||07/17|[Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)|✅|[:octocat:](./0717.py)|★|
 ||07/18|[Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)|❌|[:octocat:](./0718.py)||
 ||07/19|[Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)|✅|[:octocat:](./0719.py)||
+||07/20|[Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)|❌|[:octocat:](./0720.py)||
+||07/21|[Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)|❌|[:octocat:](./0721.py)||
+|4|07/22|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3398/)|❌|[:octocat:](./0722.py)||
+||07/23|[Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3399/)|❌|[:octocat:](./0723.py)||
+||07/24|[All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3400/)|❌|[:octocat:](./0724.py)||
+||07/25|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3401/)|❌|[:octocat:](./0725.py)||
+||07/26|[Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3402/)|❌|[:octocat:](./0726.py)||
+||07/27|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3403/)|❌|[:octocat:](./0727.py)||
+||07/28|[Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3404/)|❌|[:octocat:](./0728.py)||
