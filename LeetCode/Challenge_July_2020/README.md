@@ -1,5 +1,5 @@
 # Challenge: July 2020
-* Language: Python
+* Language: Python3
 * Site: https://leetcode.com/explore/challenge/card/july-leetcoding-challenge
 
 |Week|Date|Problem|Status|Code|Presentation|
