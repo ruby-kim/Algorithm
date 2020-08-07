@@ -25,10 +25,13 @@
 ||07/19|[Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)|✅|[:octocat:](./0719.py)||
 ||07/20|[Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)|❌|[:octocat:](./0720.py)||
 ||07/21|[Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)|❌|[:octocat:](./0721.py)||
-|4|07/22|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3398/)|❌|[:octocat:](./0722.py)||
-||07/23|[Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3399/)|❌|[:octocat:](./0723.py)||
-||07/24|[All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3400/)|❌|[:octocat:](./0724.py)||
-||07/25|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3401/)|❌|[:octocat:](./0725.py)||
-||07/26|[Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3402/)|✅|[:octocat:](./0726.py)||
-||07/27|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3403/)|❌|[:octocat:](./0727.py)||
-||07/28|[Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3404/)|✅|[:octocat:](./0728.py)|★|
+|4|07/22|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3398/)|❌|[:octocat:](./0722.py)||
+||07/23|[Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3399/)|❌|[:octocat:](./0723.py)||
+||07/24|[All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3400/)|❌|[:octocat:](./0724.py)||
+||07/25|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3401/)|❌|[:octocat:](./0725.py)||
+||07/26|[Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3402/)|✅|[:octocat:](./0726.py)||
+||07/27|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3403/)|❌|[:octocat:](./0727.py)||
+||07/28|[Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3404/)|✅|[:octocat:](./0728.py)|★|
+|5|07/29|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-5-july-29th-july-31st)|❌|[:octocat:](./0729.py)||
+||07/30|[Word Break II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-5-july-29th-july-31st/3406/)|❌|[:octocat:](./0730.py)||
+||07/31|[Climbing Stairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-5-july-29th-july-31st/3407/)|❌|[:octocat:](./0731.py)||
