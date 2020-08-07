@@ -28,7 +28,7 @@
 |4|07/22|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3398/)|❌|[:octocat:](./0722.py)||
 ||07/23|[Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3399/)|❌|[:octocat:](./0723.py)||
 ||07/24|[All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3400/)|❌|[:octocat:](./0724.py)||
-||07/25|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3401/)|❌|[:octocat:](./0725.py)||
+||07/25|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3401/)|✅|[:octocat:](./0725.py)||
 ||07/26|[Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3402/)|✅|[:octocat:](./0726.py)||
 ||07/27|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3403/)|❌|[:octocat:](./0727.py)||
 ||07/28|[Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-4-july-22nd-july-28th/3404/)|✅|[:octocat:](./0728.py)|★|
