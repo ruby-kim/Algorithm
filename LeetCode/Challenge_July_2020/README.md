@@ -31,4 +31,4 @@
 ||07/25|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3401/)|❌|[:octocat:](./0725.py)||
 ||07/26|[Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3402/)|✅|[:octocat:](./0726.py)||
 ||07/27|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3403/)|❌|[:octocat:](./0727.py)||
-||07/28|[Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3404/)|❌|[:octocat:](./0728.py)||
+||07/28|[Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3404/)|✅|[:octocat:](./0728.py)|★|
