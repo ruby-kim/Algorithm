@@ -7,7 +7,6 @@ class Solution:
         
         slen = len(only_alpha)
         flag = slen // 2
-        print(slen, flag)
         for i in range(flag):
             if only_alpha[i] != only_alpha[slen - 1 - i]:
                 return 0
