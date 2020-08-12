@@ -14,4 +14,4 @@
 |2|08/08|[Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge550/week-2-august-8th-august-14th/3416/)|❌|[:octocat:](./0808.py)||
 ||08/09|[Rotting Oranges](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge550/week-2-august-8th-august-14th/3417/)|❌|[:octocat:](./0809.py)||
 ||08/10|[Excel Sheet Column Number](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge550/week-2-august-8th-august-14th/3418/)|❌|[:octocat:](./0810.py)||
-||08/11|[H-Index](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge550/week-2-august-8th-august-14th/3419/)|❌|[:octocat:](./0811.py)||
+||08/11|[H-Index](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge550/week-2-august-8th-august-14th/3419/)|✅|[:octocat:](./0811.py)||
