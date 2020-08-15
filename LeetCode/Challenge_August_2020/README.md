@@ -16,5 +16,5 @@
 ||08/10|[Excel Sheet Column Number](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3419/)|✅|[:octocat:](./0810.py)||
 ||08/12|[Pascal's Triangle II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3421/)|❌|[:octocat:](./0812.py)||
 ||08/13|[Iterator for Combination](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/)|❌|[:octocat:](./0813.py)||
-||08/14|[Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/)|❌|[:octocat:](./0814.py)||
+||08/14|[Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/)|✅|[:octocat:](./0814.py)||
 
