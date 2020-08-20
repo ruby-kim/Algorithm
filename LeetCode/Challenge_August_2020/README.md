@@ -17,4 +17,9 @@
 ||08/12|[Pascal's Triangle II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3421/)|❌|[:octocat:](./0812.py)||
 ||08/13|[Iterator for Combination](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/)|❌|[:octocat:](./0813.py)||
 ||08/14|[Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/)|✅|[:octocat:](./0814.py)||
-
+|3|08/15|[Non-overlapping Intervals](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3425/)|❌|[:octocat:](./0815.py)||
+||08/16|[Best Time to Buy and Sell Stock III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3426/)|❌|[:octocat:](./0816.py)||
+||08/17|[Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/)|❌|[:octocat:](./0817.py)||
+||08/18|[Numbers With Same Consecutive Differences](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3428/)|❌|[:octocat:](./0818.py)||
+||08/19|[Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3429/)|❌|[:octocat:](./0819.py)||
+||08/20|[Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/)|❌|[:octocat:](./0820.py)||
