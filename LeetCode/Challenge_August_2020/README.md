@@ -21,5 +21,5 @@
 ||08/16|[Best Time to Buy and Sell Stock III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3426/)|❌|[:octocat:](./0816.py)||
 ||08/17|[Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/)|❌|[:octocat:](./0817.py)||
 ||08/18|[Numbers With Same Consecutive Differences](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3428/)|❌|[:octocat:](./0818.py)||
-||08/19|[Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3429/)|❌|[:octocat:](./0819.py)||
+||08/19|[Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3429/)|✅|[:octocat:](./0819.py)||
 ||08/20|[Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/)|❌|[:octocat:](./0820.py)||
