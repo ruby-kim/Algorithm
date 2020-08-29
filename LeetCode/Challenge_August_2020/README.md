@@ -30,5 +30,5 @@
 ||08/25|[Minimum Cost For Tickets](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3436/)|❌|[:octocat:](./0825.py)||
 ||08/26|[Fizz Buzz](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3437/)|✅|[:octocat:](./0826.py)||
 ||08/27|[Find Right Interval](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3438/)|❌|[:octocat:](./0827.py)||
-||08/28|[Implement Rand10() Using Rand7()](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3439/)|❌|[:octocat:](./0828.py)||
+||08/28|[Implement Rand10() Using Rand7()](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3439/)|✅|[:octocat:](./0828.py)|★|
 |4|08/29|[Pancake Sorting](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3441/)|❌|[:octocat:](./0829.py)||
