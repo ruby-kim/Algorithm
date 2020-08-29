@@ -25,7 +25,7 @@
 ||08/20|[Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/)|❌|[:octocat:](./0820.py)||
 ||08/21|[Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/)|✅|[:octocat:](./0821.py)||
 |4|08/22|[Random Point in Non-overlapping Rectangles](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/)|❌|[:octocat:](./0822.py)||
-||08/23|[Stream of Characters](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3434/)|❌|[:octocat:](./0823.py)||
+||08/23|[Stream of Characters](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3434/)|❌|[:octocat:](./0823.py)|?|
 ||08/24|[Sum of Left Leaves](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/)|❌|[:octocat:](./0824.py)||
 ||08/25|[Minimum Cost For Tickets](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3436/)|❌|[:octocat:](./0825.py)||
 ||08/26|[Fizz Buzz](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3437/)|✅|[:octocat:](./0826.py)||
