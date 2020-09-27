@@ -36,6 +36,7 @@
 ### Mathmatics
 * 더하기 사이클 [[문제](https://www.acmicpc.net/problem/1110)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1000~1999/1110.cpp)]
 * 부녀회장이 될테야 [[문제](https://www.acmicpc.net/problem/2775)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2000~2999/2775.cpp)]
+* 팩토리얼 [[문제](https://www.acmicpc.net/problem/10872)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10000~10999/10872.cpp)]
 
 ### Sort
 * 정렬 라이브러리 사용
