@@ -5,7 +5,7 @@
 * [Mathmatics](#Mathmatics)
 * [Sort](#Sort)
 * [String](#String)
-* Contest
+* **Contest**
   * [COCI](#cocicroatian-open-competition-in-informatics)
   * [Olympiad](#olympiad)
   * [Waterloo's local Programming](#waterloos-local-programming)
@@ -72,7 +72,6 @@
 * 그룹 단어 체커 [[문제](https://www.acmicpc.net/problem/1316)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1000~1999/1316.cpp)]
 * 평균 [[문제](https://www.acmicpc.net/problem/1546)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1000~1999/1546.cpp)]
 </details>
-<br><br>
 
 <details>
  <summary> Contest </summary>
