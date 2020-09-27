@@ -5,6 +5,10 @@
 * [Mathmatics](#Mathmatics)
 * [Sort](#Sort)
 * [String](#String)
+* Contest
+  * [COCI](#cocicroatian-open-competition-in-informatics)
+  * [Olympiad](#olympiad)
+  * [Waterloo's local Programming](#waterloos-local-programming)
 <br><br><br>
 
 <details>
@@ -53,6 +57,7 @@
 
 <details>
  <summary> Sort </summary>
+ 
 * 정렬 라이브러리 사용
   * 보물 [[문제](https://www.acmicpc.net/problem/1026)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1000~1999/1026.cpp)]
   * 세 수 [[문제](https://www.acmicpc.net/problem/10817)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10000~10999/10817.cpp)]
@@ -60,6 +65,7 @@
 
 <details>
  <summary> String </summary>
+ 
 * 단어의 개수 [[문제](https://www.acmicpc.net/problem/1152)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/1000~1999/1152.cpp)]
 * 알파벳 찾기 [[문제](https://www.acmicpc.net/problem/10809)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/10000~10999/10809.cpp)]
 
@@ -69,7 +75,9 @@
 <br><br>
 
 ## Contest
-
+<details>
+ <summary> Contest </summary>
+ 
 ### COCI(Croatian Open Competition in Informatics)
 |Year|Contest|Problem & Code|
 |:--:|:--:|:--:|
@@ -101,3 +109,4 @@
 |Date & Year|Problem & Code|
 |:--:|:--:|
 |28 September, 2002|평균은 넘겠지 [[문제](https://www.acmicpc.net/problem/4344)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/4000~4999/4344.cpp)]|
+</details>
