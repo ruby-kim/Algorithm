@@ -74,7 +74,6 @@
 </details>
 <br><br>
 
-## Contest
 <details>
  <summary> Contest </summary>
  
