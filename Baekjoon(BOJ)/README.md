@@ -82,6 +82,7 @@
 ### COCI(Croatian Open Competition in Informatics)
 |Year|Contest|Problem & Code|
 |:--:|:--:|:--:|
+|2011/2012|#1|블랙잭 [[문제](https://www.acmicpc.net/problem/2798)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2000~2999/2798.cpp)]|
 |2009/2010|#1|음계 [[문제](https://www.acmicpc.net/problem/2920)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2000~2999/2920.cpp)]|
 ||#7|알람 시계 [[문제](https://www.acmicpc.net/problem/2884)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/2000~2999/2884.cpp)]|
 |2006/2007|#1|나머지 [[문제](https://www.acmicpc.net/problem/3052)] [[코드](https://github.com/kimkyeongnam/Algorithm/blob/master/Baekjoon(BOJ)/3000~3999/3052.cpp)]|
