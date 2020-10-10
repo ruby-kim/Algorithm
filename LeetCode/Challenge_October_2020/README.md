@@ -4,7 +4,7 @@
 
 |Week|Date|Problem|Status|Code|Presentation|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|1|10/01|[Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/)|❌|[:octocat:](./1001.py)||
+|1|10/01|[Number of Recent Calls](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/)|✅|[:octocat:](./1001.py)||
 ||10/02|[Contains Duplicate III](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/)|❌|[:octocat:](./1002.py)||
 ||10/03|[Repeated Substring Pattern](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3447/)|❌|[:octocat:](./1003.py)||
 ||10/04|[Partition Labels](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3448/)|❌|[:octocat:](./1004.py)||
