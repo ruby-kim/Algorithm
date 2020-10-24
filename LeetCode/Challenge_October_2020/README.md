@@ -18,10 +18,12 @@
 ||10/12|[Combination Sum III](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3457/)|❌|[:octocat:](./1012.py)||
 ||10/13|[Insert Interval](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3458/)|❌|[:octocat:](./1013.py)||
 ||10/14|[House Robber](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3459/)|❌|[:octocat:](./1014.py)||
-|3|10/15|[Length of Last Word](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3461/)|✅|[:octocat:](./1015.py)||
+|3|10/15|[Length of Last Word](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3461/)|❌|[:octocat:](./1015.py)||
 ||10/16|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3462/)|❌|[:octocat:](./1016.py)||
 ||10/17|[Robot Bounded In Circle](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3463/)|❌|[:octocat:](./1017.py)||
 ||10/18|[Best Time to Buy and Sell Stock](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3464/)|❌|[:octocat:](./1018.py)||
 ||10/19|[Sequential Digits](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3465/)|❌|[:octocat:](./1019.py)||
 ||10/20|[Unique Paths III](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3466/)|❌|[:octocat:](./1020.py)||
 ||10/21|[Car Pooling](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3467/)|❌|[:octocat:](./1021.py)||
+|4|10/22|[Minimum Depth of Binary Tree](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/)|❌|[:octocat:](./1022.py)||
+||10/23|[132 Pattern](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3505/)|❌|[:octocat:](./1023.py)||
