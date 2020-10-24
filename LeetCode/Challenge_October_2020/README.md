@@ -14,3 +14,14 @@
 |2|10/08|[Binary Search](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/)|✅|[:octocat:](./1008.py)||
 ||10/09|[Compare Version Numbers](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3454/)|❌|[:octocat:](./1009.py)||
 ||10/10|[Bulls and Cows](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3455/)|❌|[:octocat:](./1010.py)||
+||10/11|[Maximum Product Subarray](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3456/)|❌|[:octocat:](./1011.py)||
+||10/12|[Combination Sum III](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3457/)|❌|[:octocat:](./1012.py)||
+||10/13|[Insert Interval](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3458/)|❌|[:octocat:](./1013.py)||
+||10/14|[House Robber](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3459/)|❌|[:octocat:](./1014.py)||
+|3|10/15|[Length of Last Word](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3461/)|✅|[:octocat:](./1015.py)||
+||10/16|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3462/)|❌|[:octocat:](./1016.py)||
+||10/17|[Robot Bounded In Circle](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3463/)|❌|[:octocat:](./1017.py)||
+||10/18|[Best Time to Buy and Sell Stock](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3464/)|❌|[:octocat:](./1018.py)||
+||10/19|[Sequential Digits](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3465/)|❌|[:octocat:](./1019.py)||
+||10/20|[Unique Paths III](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3466/)|❌|[:octocat:](./1020.py)||
+||10/21|[Car Pooling](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3467/)|❌|[:octocat:](./1021.py)||
