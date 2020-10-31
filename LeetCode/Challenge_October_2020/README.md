@@ -33,5 +33,5 @@
 ||10/27|[Linked List Cycle II](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3509/)|❌|[:octocat:](./1027.py)||
 ||10/28|[Summary Ranges](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3510/)|❌|[:octocat:](./1028.py)||
 |5|10/29|[Maximize Distance to Closest Person](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3512/)|❌|[:octocat:](./1029.py)||
-||10/30|[Number of Longest Increasing Subsequence](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3513/)|❌|[:octocat:](./1030.py)||
+||10/30|[Number of Longest Increasing Subsequence](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3513/)|❌|[:octocat:](./1030.py)|★|
 ||10/31|[](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3514/)|❌|[:octocat:](./1031.py)||
