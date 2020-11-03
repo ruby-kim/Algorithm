@@ -9,7 +9,7 @@ class Solution:
             space complexity가 O(1)로 설정됨
             변수 할당을 처리하는데 제약이 생기기 때문
         
-        이럴 경우에는 s[:]를 사용하자.
+        이럴 경우에는 s[:]를 사용하자. (단, 플랫폼에 따라 적용이 안될 수 있기 때문에 참고)
         ===
         s.reverse()
         Runtime: 196 ms
