@@ -8,3 +8,4 @@
 |장|제목|난이도|풀이 코드|
 |:--:|:--:|:--:|:--:|
 |6장 **문자열 조작**|[유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/submissions/)|★|[1-1.py](./1-1.py), [1-2.py](./1-2.py), [1-3.py](./1-3.py)|
+||[문자열 뒤집기](https://leetcode.com/problems/reverse-string/)|★|[2-1.py](./2-1.py), [2-2.py](./2-2.py)|
