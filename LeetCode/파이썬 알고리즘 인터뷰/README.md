@@ -11,3 +11,7 @@
 ||[문자열 뒤집기](https://leetcode.com/problems/reverse-string/)|★|[2-1.py](./2-1.py), [2-2.py](./2-2.py)|
 ||[로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/)|★|[3.py](./3.py)|
 ||[가장 흔한 단어](https://leetcode.com/problems/most-common-word/)|★☆|[4.py](./4.py)|
+||[그룹 애너그램](https://leetcode.com/problems/group-anagrams/)|★★|[5.py](./5.py)|
+||[가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/)|★★|[6.py](./6.py)|
+|7장 **배열**||||
+
