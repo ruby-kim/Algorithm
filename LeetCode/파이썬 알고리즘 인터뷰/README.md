@@ -7,4 +7,4 @@
 
 |장|제목|난이도|풀이 코드|
 |:--:|:--:|:--:|:--:|
-|12장 **그래프**|[섬의 개수](https://leetcode.com/problems/number-of-islands/)|★★|[32.py](./32.py)|
+|6장 **문자열 조작**|[유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/submissions/)|★|[1-1.py](./1-1.py), [1-2.py](./1-2.py), [1-3.py](./1-3.py), [1-4.c](./1-4.c)|
