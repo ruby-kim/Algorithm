@@ -1,6 +1,6 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        """ 3) 투 포인터, 슬라이딩 윈도우, Counter를 모두 이용
+        """ 투 포인터, 슬라이딩 윈도우, Counter를 모두 이용
         Runtime: 300 ms
         Memory: 14.2 MB
         """
