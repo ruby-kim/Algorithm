@@ -15,5 +15,5 @@
 ||[가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/)|★★|[6.py](./6.py)|
 |7장 **배열**||||
 |20장 **슬라이딩 윈도우**|[최대 슬라이딩 윈도우](https://leetcode.com/problems/sliding-window-maximum)|★★★|[75-1.py](./75-1.py), [75-2.py](./75-2.py)|
-||[부분 문자열이 포함된 최소 윈도우](https://leetcode.com/problems/minimum-window-substring/)|★★★|[76.py](./76.py)|
+||[부분 문자열이 포함된 최소 윈도우](https://leetcode.com/problems/minimum-window-substring/)|★★★|[[76-1.py](./76-1.py), [76-2.py](./76-2.py), [1-3.py](./76-3.py)|
 ||[가장 긴 반복 문자 대체](https://leetcode.com/problems/longest-repeating-character-replacement/)|★★|[77.py](./77.py)|
