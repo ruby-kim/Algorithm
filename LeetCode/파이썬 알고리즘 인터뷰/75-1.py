@@ -7,5 +7,3 @@ class Solution:
         if not nums:
             return nums
         return [max(nums[i : i + k]) for i in range(len(nums) - k + 1)]
-        
-        
